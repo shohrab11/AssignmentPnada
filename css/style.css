@@ -1,0 +1,102 @@
+.hero{
+    background-color: #FFFBF0;
+    width: 99%;
+   
+}
+.button-design{
+    background-color: #A4BC46;
+    color: white;
+    font-size: 15px;
+    padding: 10px 25px;
+    border-radius: 10px;
+
+}
+.button-design img{
+    width: 25px;
+   
+}
+.hero-heading{
+    font-family: 'Bebas Neue', cursive;
+    color: #FABE4C;
+}
+.text-desin{
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+}
+.hero-heading h1{
+    font-size: 65px;
+    font-weight: 600px;
+}
+.card-img-top {
+    width: 80%;
+    height: 250px;
+    margin: 20px;
+}
+.card-image{
+    width: 90%;
+    height: 100%;
+    align-items: center;
+    background-color: #EFECEC;
+    border-radius: 20px;
+    margin: 20px;
+
+
+}
+.card-title{
+    color: #363958;
+    font-weight: 700;
+
+}
+.card-design {
+    box-shadow: 7px 7px 20px #EEEEEE;
+    border-radius: 20px !important;
+    border: none;
+    padding-bottom: 10px;
+}
+.text-footer{
+    color: #FABE4C;
+    font-size: 40px;
+    margin-right: 40px;
+    font-weight: 700;
+}
+.penguin-footer{
+    border: none;
+    background-color: white;
+}
+.showcase-image{
+    width: 70px;
+}
+.showcase-text{
+    text-align: left;
+    color: #363958;
+    
+}
+.showcase-text h4{
+    font-weight: 700;
+    color: #363958;
+}
+.showcase-image-right img{
+    width: 550px;
+    margin-top: 30px;
+}
+.showcase{
+    padding-top: 100px;
+    align-items: flex-end;
+}
+.showcase-textarea{
+    box-shadow: 7px 7px 20px #EEEEEE;
+    padding: 10px;
+    margin: 10px;
+  border-radius: 10px;  
+
+}
+.text-footer a{
+    text-decoration: none;
+
+}
+footer{
+    background-color: #EEEEEE;
+}
+.fotext{
+    color:black;
+}
